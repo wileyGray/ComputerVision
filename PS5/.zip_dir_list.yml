@@ -1,0 +1,14 @@
+required_directories:
+  - proj5_code/segmentation
+  - proj5_code/classification
+  - proj5_code/camvid_dataset_lists
+  - model_checkpoints/simple_net
+required_files:
+  - proj5_code/proj5.ipynb
+optional_directories:
+  - model_checkpoints/simple_net_dropout
+optional_files:
+  - README.txt
+  - model_checkpoints/simple_net_dropout/checkpoint.pt
+  - model_checkpoints/simple_net/checkpoint.pt
+  - grayscale_predictions.zip
